@@ -1,1 +1,1 @@
-*.html linguist-detecable=false
+*.c# linguist-detecable=true
