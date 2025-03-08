@@ -53,3 +53,20 @@
 |:--:|:--:|
 | ![Image](https://github.com/user-attachments/assets/66b2684f-d7a4-4b65-ba16-6ac5d37123fb) |![Image](https://github.com/user-attachments/assets/767554b3-9071-4333-9a63-4691fe284522) |
 
+# 기타활동
+### 2021 경상북도 게임잼
+- 행사기간 : 2021.11.19 ~ 2021.11.21
+- 프로그래머로 참여
+
+#### 활동 사진
+|        |        |        |        |
+|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/7b98a791-a5af-4af1-8167-450920b87c02" width="250"> | <img src="https://github.com/user-attachments/assets/40eb9bb1-aca1-4a79-9043-fd3d30791ea4" width="220"> | <img src="https://github.com/user-attachments/assets/cf9d0d15-f806-44fb-9233-e150fda8e55a" width="220"> | <img src="https://github.com/user-attachments/assets/01c8b379-81d2-4203-9991-855b58776e03" width="220"> |
+
+### 빽투더수원 게더타운
+- 행사기간 : 2022.01.22
+- 코로나19로 인한 메타버스 열풍에 동참하여, 빽투더수원 게더타운에서 직접 가상 체험을 통해 메타버스에 대한 이해도를 높임
+#### 활동 사진
+|        |        |        |        |
+|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/9a79beb8-cd6e-4ba7-aefe-72c69a16878e" width="250"> | <img src="https://github.com/user-attachments/assets/4666b140-b680-45fc-a4f8-a82445b09294" width="220"> | <img src="https://github.com/user-attachments/assets/65f56920-d107-4ec3-aab3-c3a13b15a1ab" width="220"> | <img src="https://github.com/user-attachments/assets/319d83e4-121a-4e46-a36b-3ee0acf0595c" width="220"> |
