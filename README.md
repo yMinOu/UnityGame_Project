@@ -1,6 +1,6 @@
 # 달려라 너굴
 ## 2022 경북 게임인 해커톤
-- 개발기간 : 2022.11.04 ~ 2022.11.05
+- 행사기간 : 2022.11.04 ~ 2022.11.05
 - Developers : 김유진, 김희진
 - Award : 2022 경북 게임인 해커톤 **아이디어상**
 
@@ -34,3 +34,22 @@
 
 ![Image](https://github.com/user-attachments/assets/49250d54-1fbf-446e-b15c-db8131c5a0e5)
 ![Image](https://github.com/user-attachments/assets/ba3749fb-c6dd-4d71-9fb5-0167520b31e6)
+
+# 어셈블미
+## 2022 경북 게임잼
+- 행사기간 : 2022.11.11 ~ 2022.11.13
+- 기획자 : 김택근, 김희진
+- 프로그래머 : 김유진, 최태헌
+- 디자이너 : 최해창
+
+### 활동 사진
+|        |        |
+|:------:|:------:|
+| ![Image](https://github.com/user-attachments/assets/81953322-f608-4ad5-92d6-dd9256dd7148) | ![Image](https://github.com/user-attachments/assets/0b3b5b21-1304-4215-8b01-b6e2f0d8d6e9) |
+
+### 화면 구성
+
+| 홈 | 게임 |
+|:--:|:--:|
+| ![Image](https://github.com/user-attachments/assets/66b2684f-d7a4-4b65-ba16-6ac5d37123fb) |![Image](https://github.com/user-attachments/assets/767554b3-9071-4333-9a63-4691fe284522) |
+
